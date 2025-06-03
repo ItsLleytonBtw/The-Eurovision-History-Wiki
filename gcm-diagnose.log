@@ -1,0 +1,180 @@
+﻿Diagnose log at 2025-06-03T19:06:29Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26100)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\Gebruiker
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=LAPTOP-LLEYTON
+GIT_TRACE2_PARENT_SID=968c14f3-2aff-4e37-86b6-d10bca680c55
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\Gebruiker\OneDrive - Hogeschool VIVES
+WT_PROFILE_ID={61c54bbd-c2c6-5271-96e7-009a87ff44bf}
+RegionCode=EMEA
+TMP=C:\Users\GEBRUI~1\AppData\Local\Temp
+HOME=C:\Users\Gebruiker
+PROCESSOR_REVISION=5000
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\GEBRUI~1\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\Gebruiker\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+COLORTERM=truecolor
+USERDOMAIN=LAPTOP-LLEYTON
+ProgramFiles(x86)=C:\Program Files (x86)
+platformcode=KV
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Gebruiker\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\Gebruiker\AppData\Local\Microsoft\WindowsApps;C:\Users\Gebruiker\.aftman\bin;C:\Users\Gebruiker\AppData\Local\spicetify;C:\Users\Gebruiker\AppData\Local\Microsoft\WindowsApps;
+PROCESSOR_LEVEL=25
+PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+TMPDIR=C:\Users\GEBRUI~1\AppData\Local\Temp
+PSModulePath=C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=12
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+WT_SESSION=a7a1bb4d-7a39-4338-b258-a4c751f8b54a
+WSLENV=WT_SESSION:WT_PROFILE_ID:
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+ProgramW6432=C:\Program Files
+ProgramFiles=C:\Program Files (x86)
+OnlineServices=Online Services
+SystemRoot=C:\WINDOWS
+SESSIONNAME=Console
+LC_CTYPE=C.UTF-8
+CommonProgramW6432=C:\Program Files\Common Files
+LOGONSERVER=\\LAPTOP-LLEYTON
+USERPROFILE=C:\Users\Gebruiker
+USERDOMAIN_ROAMINGPROFILE=LAPTOP-LLEYTON
+APPDATA=C:\Users\Gebruiker\AppData\Roaming
+HOMEDRIVE=C:
+OneDriveCommercial=C:\Users\Gebruiker\OneDrive - Hogeschool VIVES
+VBOX_HWVIRTEX_IGNORE_SVM_IN_USE=1
+USERNAME=Gebruiker
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+SystemDrive=C:
+windir=C:\WINDOWS
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Gebruiker\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Gebruiker\AppData\Local\Temp\fce84e189a8b7803af065c37'... OK
+Reading from temporary file 'C:\Users\Gebruiker\AppData\Local\Temp\fce84e189a8b7803af065c37'... OK
+Deleting temporary file 'C:\Users\Gebruiker\AppData\Local\Temp\fce84e189a8b7803af065c37'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Gebruiker
+UserDataDirectoryPath: C:\Users\Gebruiker\.gcm
+GetCurrentDirectory(): C:\Users\Gebruiker\Onedrive - Hogeschool VIVES\Documenten\[02] Persoonlijke Documenten\The Eurovision History Wiki
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: False
+Exception:
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: The remote name could not be resolved: 'example.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at GitCredentialManager.Diagnostics.NetworkingDiagnostic.<RunInternalAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... warning: HEAD request failed
+Sending HEAD request to http://httpforever.com...
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.49.0.windows.1'
+Locating current repository...Git repository at 'C:/Users/Gebruiker/OneDrive - Hogeschool VIVES/Documenten/[02] Persoonlijke Documenten/The Eurovision History Wiki/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	core.editor=notepad
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=wiki
+file:C:/Users/Gebruiker/.gitconfig	credential.helper=store
+file:C:/Users/Gebruiker/.gitconfig	credential.helper=
+file:C:/Users/Gebruiker/.gitconfig	credential.helper=C:/Program\ Files/Git/mingw64/bin/git-credential-manager.exe
+file:C:/Users/Gebruiker/.gitconfig	user.email=warloplleyton@hotmail.com
+file:C:/Users/Gebruiker/.gitconfig	user.name=ItsLleytonBtw
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/ItsLleytonBtw/The-Eurovision-History-Wiki.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Gebruiker\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Gebruiker\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
