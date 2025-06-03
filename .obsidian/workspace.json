@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/EBU.md",
+                "file": "Organisations/European Broadcasting Union.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EBU"
+              "title": "European Broadcasting Union"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisations/EBU.md",
+                "file": "Organisations/European Broadcasting Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EBU"
+              "title": "Backlinks for European Broadcasting Union"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organisations/EBU.md",
+                "file": "Organisations/European Broadcasting Union.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from EBU"
+              "title": "Outgoing links from European Broadcasting Union"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organisations/EBU.md",
+                "file": "Organisations/European Broadcasting Union.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EBU"
+              "title": "Outline of European Broadcasting Union"
             }
           },
           {
@@ -179,14 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebd16158b9de08c9",
+  "active": "377089074c972f44",
   "lastOpenFiles": [
     "Pictures",
     "Pictures/EBU_Member_Elliptic.png",
     "Pictures",
     "New folder",
     "Welcome.md",
-    "Organisations/EBU.md",
+    "Organisations/European Broadcasting Union.md",
     "Untitled.canvas",
     "Untitled.md",
     "Organisations",
