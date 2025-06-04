@@ -5,7 +5,7 @@
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Figure 1*: The old EBU/UER logo used from 1994 until 2012                                                                     | *Figure 2*: The current EBU logo since 2012                                                                                                       | *Figure 3*: Simplified EBU logo, used for small spaces                                                                                            |
 
-The European Broadcasting Union (EBU) is the main organisation behind the [[Eurovision Song Contest]] (ESC). It is an alliance of public service media in countries within the European Broadcasting Area or members of the Council of Europe.
+The European Broadcasting Union (EBU) is the main organisation behind the [[Eurovision Song Contest|Eurovision Song Contest (ESC)]]. It is an alliance of public service media in countries within the European Broadcasting Area or members of the Council of Europe.
 > [!col]
 >> [!col-md 0.5]
 >> Founded on 12 February 1950, the 75 years old Union has 123 members from 56 countries and an extra 31 associate members from 20 countries. The EBU has its headquarters in Geneva.
@@ -15,10 +15,11 @@ The European Broadcasting Union (EBU) is the main organisation behind the [[Euro
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Figure 1: In the picture[^1] you see a map of all current members in <span style="font-weight:bold; color:rgb(33, 68, 120)">dark blue</span>, suspended members in <span style="font-weight:bold; color:rgb(255, 182, 0)">yellow</span> and associate members in <span style="font-weight:bold; color:rgb(55, 113, 200)">blue</span>. |
 
-They produce many programmes and events, like ESC, Junior ESC, etc.
+They produce many programmes and events, like [[Eurovision Song Contest|ESC]], [[Junior Eurovision Song Contest|Junior ESC (JESC)]], etc.
 
 ## (Associate) members
 
+Most of these members are also official [[Broadcasters|broadcasters]] for  [[Eurovision Song Contest|ESC]] and [[Junior Eurovision Song Contest|JESC]]. In 2025, 37 members participated in [[Eurovision Song Contest|ESC]] and in 2024, 17 members participated in [[Junior Eurovision Song Contest|JESC]].
 
 <table>
 	<thead>
