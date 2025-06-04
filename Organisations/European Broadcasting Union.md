@@ -21,13 +21,14 @@ They produce many programmes and events, like [[Eurovision Song Contest|ESC]], [
 
 Most of these members are also official [[Broadcasters|broadcasters]] for  [[Eurovision Song Contest|ESC]] and [[Junior Eurovision Song Contest|JESC]]. In 2025, 37 members participated in [[Eurovision Song Contest|ESC]] and in 2024, 17 members participated in [[Junior Eurovision Song Contest|JESC]].
 
+### Current members
 <table>
 	<thead>
 		<tr>
-			<th style="text-align: center; width: 125px">Country</th>
+			<th style="text-align: center; width: 170px">Country</th>
 			<th style="text-align: center;">Broadcaster</th>
 			<th style="text-align: center; width: 100px">Abbreviation</th>
-			<th style="text-align: center; width: 100px">Year joined</th>
+			<th style="text-align: center; width: 105px">Year joined</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -179,8 +180,285 @@ Most of these members are also official [[Broadcasters|broadcasters]] for  [[Eur
 			<td style="vertical-align: middle; text-align: center;">ZDF</td>
 			<td style="vertical-align: middle; text-align: center;">1963</td>
 		</tr>
+		<tr>
+			<td><img src="gr.png" width="20px"> <a href="Greece.md">Greece</a></td>
+			<td>Hellenic Broadcasting Corporation</td>
+			<td style="text-align: center">ERT</td>
+			<td style="text-align: center">1950-2013 2015</td>
+		</tr>
+		<tr>
+			<td><img src="hu.png" width="20px"> <a href="Hungary.md">Hungary</a></td>
+			<td>Médiaszolgáltatás-támogató és Vagyonkezelő Alap</td>
+			<td style="text-align: center">MTVA</td>
+			<td style="text-align: center">2014</td>
+		</tr>
+		<tr>
+			<td><img src="is.png" width="20px"> <a href="Iceland.md">Iceland</a></td>
+			<td>Ríkisútvarpið</td>
+			<td style="text-align: center">RÚV</td>
+			<td style="text-align: center">1956</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="vertical-align: middle;"><img src="ie.png" width="20px"> <a href="Ireland.md">Ireland</a></td>
+			<td>Raidió Teilifís Éireann</td>
+			<td style="vertical-align: middle; text-align: center">RTÉ</td>
+			<td style="vertical-align: middle; text-align: center">1950</td>
+		</tr>
+		<tr>
+			<td>TG4</td>
+			<td style="vertical-align: middle; text-align: center;">TG4</td>
+			<td style="vertical-align: middle; text-align: center;">2007</td>
+		</tr>
+		<tr>
+			<td><img src="il.png" width="20px"> <a href="Israel.md">Israel</a></td>
+			<td>Israeli Public Broadcasting Corporation</td>
+			<td style="text-align: center">KAN</td>
+			<td style="text-align: center">2017</td>
+		</tr>
+		<tr>
+			<td><img src="it.png" width="20px"> <a href="Italy.md">Italy</a></td>
+			<td>Radiotelevisione Italiana</td>
+			<td style="text-align: center">RAI</td>
+			<td style="text-align: center">1950</td>
+		</tr>
+		<tr>
+			<td><img src="jo.png" width="20px"> <a href="Jordan.md">Jordan</a></td>
+			<td>Jordan Radio and Television Corporation</td>
+			<td style="text-align: center">JRTV</td>
+			<td style="text-align: center">1970</td>
+		</tr>
+		<tr>
+			<td><img src="lv.png" width="20px"> <a href="Latvia.md">Latvia</a></td>
+			<td>Public Broadcasting of Latvia</td>
+			<td style="text-align: center">LSM</td>
+			<td style="text-align: center">1993</td>
+		</tr>
+		<tr>
+			<td><img src="lb.png" width="20px"> <a href="Lebanon.md">Lebanon</a></td>
+			<td>Télé Liban</td>
+			<td style="text-align: center">TL</td>
+			<td style="text-align: center">1950</td>
+		</tr>
+		<tr>
+			<td><img src="ly.png" width="20px"> <a href="Libya.md">Libya</a></td>
+			<td>Libya National Channel</td>
+			<td style="text-align: center">LNC</td>
+			<td style="text-align: center">2011</td>
+		</tr>
+		<tr>
+			<td><img src="lt.png" width="20px"> <a href="Lithuania.md">Lithuania</a></td>
+			<td>Lithuanian National Radio and Television</td>
+			<td style="text-align: center">LRT</td>
+			<td style="text-align: center">1993</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="vertical-align: middle;"><img src="lu.png" width="20px"> <a href="Luxembourg.md">Luxembourg</a></td>
+			<td>RTL Group</td>
+			<td style="vertical-align: middle; text-align: center">RTL</td>
+			<td style="vertical-align: middle; text-align: center">1950</td>
+		</tr>
+		<tr>
+			<td>Établissement de Radiodiffusion Socioculturell du Grande-Duché de Luxembourg</td>
+			<td style="vertical-align: middle; text-align: center;">ERSL</td>
+			<td style="vertical-align: middle; text-align: center;">1996</td>
+		</tr>
+		<tr>
+			<td><img src="mt.png" width="20px"> <a href="Malta.md">Malta</a></td>
+			<td>Public Broadcasting Services</td>
+			<td style="text-align: center">PBS</td>
+			<td style="text-align: center">1970</td>
+		</tr>
+		<tr>
+			<td><img src="md.png" width="20px"> <a href="Moldova.md">Moldova</a></td>
+			<td>Compania Națională "Teleradio-Moldova"</td>
+			<td style="text-align: center">TRM</td>
+			<td style="text-align: center">1993</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="vertical-align: middle;"><img src="mc.png" width="20px"> <a href="Monaco.md">Monaco</a></td>
+			<td>Monaco Media Diffusion</td>
+			<td style="vertical-align: middle; text-align: center">MMD</td>
+			<td style="vertical-align: middle; text-align: center">1994</td>
+		</tr>
+		<tr>
+			<td>TVMonaco</td>
+			<td style="vertical-align: middle; text-align: center;">TVM</td>
+			<td style="vertical-align: middle; text-align: center;">2024</td>
+		</tr>
+		<tr>
+			<td><img src="me.png" width="20px"> <a href="Montenegro.md">Montenegro</a></td>
+			<td>Radio i televizija Cme Gore</td>
+			<td style="text-align: center">RTCG</td>
+			<td style="text-align: center">2006</td>
+		</tr>
+		<tr>
+			<td><img src="ma.png" width="20px"> <a href="Morocco.md">Morocco</a></td>
+			<td>Société Nationale de Radiodiffusion et de Télévision</td>
+			<td style="text-align: center">SNRT</td>
+			<td style="text-align: center">1950</td>
+		</tr>
+		<tr>
+			<td><img src="nl.png" width="20px"> <a href="Netherlands.md">Netherlands</a></td>
+			<td>Nederlandse Publieke Omroep</td>
+			<td style="text-align: center">NPO</td>
+			<td style="text-align: center">1950</td>
+		</tr>
+		<tr>
+			<td><img src="mk.png" width="20px"> <a href="North Macedonia.md">North Macedonia</a></td>
+			<td>Macedonian Radio Television</td>
+			<td style="text-align: center">MRT</td>
+			<td style="text-align: center">1993</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="vertical-align: middle;"><img src="no.png" width="20px"> <a href="Norway.md">Norway</a></td>
+			<td>Norsk Rikskringkasting</td>
+			<td style="vertical-align: middle; text-align: center">NRK</td>
+			<td style="vertical-align: middle; text-align: center">1950</td>
+		</tr>
+		<tr>
+			<td>TV 2 Group</td>
+			<td style="vertical-align: middle; text-align: center;">NO/TV2</td>
+			<td style="vertical-align: middle; text-align: center;">1993</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="vertical-align: middle;"><img src="pl.png" width="20px"> <a href="Poland.md">Poland</a></td>
+			<td>Telewizja Polska</td>
+			<td style="vertical-align: middle; text-align: center">TVP</td>
+			<td rowspan ="2" style="vertical-align: middle; text-align: center">1993</td>
+		</tr>
+		<tr>
+			<td>Polskie Radio</td>
+			<td style="vertical-align: middle; text-align: center;">PR</td>
+		</tr>
+		<tr>
+			<td><img src="pt.png" width="20px"> <a href="Portugal.md">Portugal</a></td>
+			<td>Rádio e Televisão de Portugal</td>
+			<td style="text-align: center">RTP</td>
+			<td style="text-align: center">1950</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="vertical-align: middle;"><img src="ro.png" width="20px"> <a href="Romania.md">Romania</a></td>
+			<td>Societatea Română de Radiodifuziune</td>
+			<td style="vertical-align: middle; text-align: center">ROR</td>
+			<td rowspan ="2" style="vertical-align: middle; text-align: center">1993</td>
+		</tr>
+		<tr>
+			<td>Societatea Română de Televiziune</td>
+			<td style="vertical-align: middle; text-align: center;">RO/TVR</td>
+		</tr>
+		<tr>
+			<td><img src="sm.png" width="20px"> <a href="San Marino.md">San Marino</a></td>
+			<td>San Marino RTV</td>
+			<td style="text-align: center">SMRTV</td>
+			<td style="text-align: center">1995</td>
+		</tr>
+		<tr>
+			<td><img src="rs.png" width="20px"> <a href="Serbia.md">Serbia</a></td>
+			<td>Radio-televizija Srbije</td>
+			<td style="text-align: center">RTS</td>
+			<td style="text-align: center">2006</td>
+		</tr>
+		<tr>
+			<td><img src="sk.png" width="20px"> <a href="Slovakia.md">Slovakia</a></td>
+			<td>Slovak Television and Radio</td>
+			<td style="text-align: center">STVR</td>
+			<td style="text-align: center">2024</td>
+		</tr>
+		<tr>
+			<td><img src="sl.png" width="20px"> <a href="Slovenia.md">Slovenia</a></td>
+			<td>Radiotelevizija Slovenija</td>
+			<td style="text-align: center">RTVSLO</td>
+			<td style="text-align: center">1993</td>
+		</tr>
+		<tr>
+			<td><img src="es.png" width="20px"> <a href="Spain.md">Spain</a></td>
+			<td>Radiotelevisión Española</td>
+			<td style="text-align: center">RTVE</td>
+			<td style="text-align: center">1955</td>
+		</tr>
+		<tr>
+			<td><img src="se.png" width="20px"> <a href="Sweden.md">Sweden</a></td>
+			<td>Sveriges Rundradiotjänst</td>
+			<td style="text-align: center">SRT</td>
+			<td style="text-align: center">1950</td>
+		</tr>
+		<tr>
+			<td><img src="ch.png" width="20px"> <a href="Switzerland.md">Switzerland</a></td>
+			<td>Swiss Broadcasting Corporation</td>
+			<td style="text-align: center">SRG SSR</td>
+			<td style="text-align: center">1950</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="vertical-align: middle;"><img src="tn.png" width="20px"> <a href="Tunesia.md">Tunesia</a></td>
+			<td>Établissement de la Radio Tunesienne</td>
+			<td rowspan ="2" style="vertical-align: middle; text-align: center">RTT</td>
+			<td rowspan ="2" style="vertical-align: middle; text-align: center">2007</td>
+		</tr>
+		<tr>
+			<td>Établissement de la Télévision Tunesienne</td>
+		</tr>
+		<tr>
+			<td><img src="ua.png" width="20px"> <a href="Ukraine.md">Ukraine</a></td>
+			<td>National Public Broadcasting Company of Ukraine</td>
+			<td style="text-align: center">SU</td>
+			<td style="text-align: center">1993</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="vertical-align: middle;"><img src="uk.png" width="20px"> <a href="United Kingdom.md">United Kingdom</a></td>
+			<td>British Broadcasting Corporation</td>
+			<td style="vertical-align: middle; text-align: center">BBC</td>
+			<td style="vertical-align: middle; text-align: center">1950</td>
+		</tr>
+		<tr>
+			<td>United Kingdom Independent Broadcasting</td>
+			<td style="vertical-align: middle; text-align: center;">UKIB</td>
+			<td style="vertical-align: middle; text-align: center">1981</td>
+		</tr>
+		<tr>
+			<td><img src="va.png" width="20px"> <a href="Vatican City.md">Vatican City</a></td>
+			<td>Vatican Radio</td>
+			<td style="text-align: center">VR</td>
+			<td style="text-align: center">1950</td>
+		</tr>
 	</tbody>	
 </table>
+
+### Suspended members
+
+<table>
+	<thead>
+		<tr>
+			<th style="text-align: center; width: 125px">Country</th>
+			<th style="text-align: center;">Broadcaster</th>
+			<th style="text-align: center; width: 100px">Abbreviation</th>
+			<th style="text-align: center; width: 100px">Year joined</th>
+			<th style="text-align: center; width: 100px">Suspended</th>
+		</tr>
+	</thead>
+		<tr>
+			<td><img src="by.png" width="20px"> <a href="Belarus.md">Belarus</a></td>
+			<td>National State TV and Radio Company of the Republic of Belarus</td>
+			<td style="text-align: center">BTRC</td>
+			<td style="text-align: center">1993</td>
+			<td style="text-align: center">2021</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="vertical-align: middle;"><img src="ru.png" width="20px"> <a href="Russia.md">Russia</a></td>
+			<td>Channel One Russia</td>
+			<td style="vertical-align: middle; text-align: center">C1R</td>
+			<td style="vertical-align: middle; text-align: center">1996</td>
+			<td rowspan="3" style="vertical-align: middle; text-align: center">2022</td>
+		</tr>
+		<tr>
+			<td>All-Russia State Television and Radio Broadcasting</td>
+			<td style="vertical-align: middle; text-align: center;">RTR</td>
+			<td style="vertical-align: middle; text-align: center">1993</td>
+		</tr>
+		<tr>
+			<td>Radio Dom Ostankino</td>
+			<td style="vertical-align: middle; text-align: center;">RDO</td>
+			<td style="vertical-align: middle; text-align: center">1996</td>
+		</tr>
 
 [^1]: Wikipedia contributors. (2025). _European Broadcasting Union_. Retrieved June 3, 2025, from [https://en.wikipedia.org/wiki/European_Broadcasting_Union](https://en.wikipedia.org/wiki/European_Broadcasting_Union)
 

@@ -11,10 +11,14 @@
             "id": "8325bde5a7ba555a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Organisations/European Broadcasting Union.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "European Broadcasting Union"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a9cb6e5c23c3b8a3",
@@ -177,8 +180,10 @@
   },
   "active": "8325bde5a7ba555a",
   "lastOpenFiles": [
-    "Organisations/European Broadcasting Union.md",
     "Welcome.md",
+    "Organisations/European Broadcasting Union.md",
+    "Pictures/uk.png",
+    "Pictures/Flag_of_the_United_Kingdom.png",
     "Eurovision Song Contest.md",
     "broadcasters.md",
     "Pictures/Alternative EBU Logo.jpg",
@@ -190,8 +195,6 @@
     "Pictures/ye.png",
     "Pictures/xk.png",
     "Pictures/ws.png",
-    "Pictures/wf.png",
-    "Pictures/vu.png",
     "Pictures",
     "Pictures",
     "New folder",
