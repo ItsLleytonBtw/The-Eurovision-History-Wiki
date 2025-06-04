@@ -1,21 +1,51 @@
 ## General Information
 <br>
 
-| <div style="display: flex; justify-content: center; align-items: center; height: 150px;"> <img src="EBU_Logo.png" width="150"> | <div style="display: flex; justify-content: center; align-items: center; height: 150px;"> <img src="European_Broadcasting_Union_logo.png"> </div> | <div style="display: flex; justify-content: center; align-items: center; height: 150px;"> <img src="Alternative EBU Logo.jpg" width="150"> </div> |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Figure 1*: The old EBU/UER logo used from 1994 until 2012                                                                     | *Figure 2*: The current EBU logo since 2012                                                                                                       | *Figure 3*: Simplified EBU logo, used for small spaces                                                                                            |
+<table style="table-layout: fixed; border-collapse: collapse; border: 2px solid white; color: white; margin: 0 auto">
+  <colgroup>
+    <col style="width: 300px;">
+    <col style="width: 300px;">
+    <col style="width: 300px;">
+  </colgroup>
+  <tr>
+    <td style="border: 2px solid white; vertical-align: middle; text-align: center;">
+      <img src="EBU_Logo.png" width="300">
+    </td>
+    <td style="border: 2px solid white; vertical-align: middle; text-align: center;">
+      <img src="European_Broadcasting_Union_logo.png" width="300">
+    </td>
+    <td style="border: 2px solid white; vertical-align: middle; text-align: center;">
+      <img src="Alternative EBU Logo.jpg" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid white; vertical-align: middle; text-align: center;">
+      <em>Figure 1</em>: The old EBU/UER logo used from 1994 until 2012
+    </td>
+    <td style="border: 2px solid white; vertical-align: middle; text-align: center;">
+      <em>Figure 2</em>: The current EBU logo since 2012
+    </td>
+    <td style="border: 2px solid white; vertical-align: middle; text-align: center;">
+      <em>Figure 3</em>: Simplified EBU logo, used for small spaces
+    </td>
+  </tr>
+</table>
 
-The European Broadcasting Union (EBU) is the main organisation behind the [[Eurovision Song Contest|Eurovision Song Contest (ESC)]]. It is an alliance of public service media in countries within the European Broadcasting Area or members of the Council of Europe.
 > [!col]
->> [!col-md 0.5]
->> Founded on 12 February 1950, the 75 years old Union has 123 members from 56 countries and an extra 31 associate members from 20 countries. The EBU has its headquarters in Geneva.
->
 >> [!col-md]
+>> <br>
+>> The European Broadcasting Union (EBU) is the main organisation behind the [[Eurovision Song Contest|Eurovision Song Contest (ESC)]]. It is an alliance of public service media in countries within the European Broadcasting Area or members of the Council of Europe.
+>> 
+>> Founded on 12 February 1950, the 75 years old Union has 123 members from 56 countries and an extra 31 associate members from 20 countries. The EBU has its headquarters in Geneva.
+>> 
+>> They produce many programmes and events, like [[Eurovision Song Contest|ESC]], [[Junior Eurovision Song Contest|Junior ESC (JESC)]], etc.
+>
+>> [!col-md 0.5]
 >> | ![[EBU_Member_Elliptic.png]]                                                                                                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Figure 4*: In the picture[^1] you see a map of all current members in <span style="font-weight:bold; color:rgb(33, 68, 120)">dark blue</span>, suspended members in <span style="font-weight:bold; color:rgb(255, 182, 0)">yellow</span> and associate members in <span style="font-weight:bold; color:rgb(55, 113, 200)">blue</span>. |
 
-They produce many programmes and events, like [[Eurovision Song Contest|ESC]], [[Junior Eurovision Song Contest|Junior ESC (JESC)]], etc.
+
 
 ## (Associate) members
 
@@ -25,7 +55,7 @@ Most of these members are also official [[Broadcasters|broadcasters]] for  [[Eur
 <table>
 	<thead>
 		<tr>
-			<th style="text-align: center; width: 170px">Country</th>
+			<th style="text-align: center">Country</th>
 			<th style="text-align: center;">Broadcaster</th>
 			<th style="text-align: center; width: 100px">Abbreviation</th>
 			<th style="text-align: center; width: 105px">Year joined</th>
@@ -39,7 +69,7 @@ Most of these members are also official [[Broadcasters|broadcasters]] for  [[Eur
 			<td style="text-align: center">1999</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="vertical-align: middle;"><img src="dz.png" width="20px"> <a href="Algeria.md">Algeria</a></td>
+			<td rowspan="2" style="vertical-align: middle;"><img src="dz.png" width="20px"> Algeria</td>
 			<td>Public Establishment of Television</td>
 			<td style="text-align: center">EPTV</td>
 			<td rowspan="2" style="vertical-align: middle; text-align: center;">1970</td>
@@ -49,7 +79,7 @@ Most of these members are also official [[Broadcasters|broadcasters]] for  [[Eur
 			<td style="text-align: center">TDA</td>
 		</tr>
 		<tr>
-			<td><img src="ad.png" width="20px"> <a href="Andorra.md">Andorra</a></td>
+			<td><img src="ad.png" width="20px"> Andorra</td>
 			<td>Radio and Television of Andorra</td>
 			<td style="text-align: center">RTVA</td>
 			<td style="text-align: center">2002</td>
@@ -181,9 +211,9 @@ Most of these members are also official [[Broadcasters|broadcasters]] for  [[Eur
 			<td style="vertical-align: middle; text-align: center;">1963</td>
 		</tr>
 		<tr>
-			<td><img src="gr.png" width="20px"> <a href="Greece.md">Greece</a></td>
-			<td>Hellenic Broadcasting Corporation</td>
-			<td style="text-align: center">ERT</td>
+			<td style="vertical-align: middle"><img src="gr.png" width="20px"> <a href="Greece.md">Greece</a></td>
+			<td style="vertical-align: middle">Hellenic Broadcasting Corporation</td>
+			<td style="vertical-align: middle; text-align: center">ERT</td>
 			<td style="text-align: center">1950-2013 2015</td>
 		</tr>
 		<tr>
@@ -222,7 +252,7 @@ Most of these members are also official [[Broadcasters|broadcasters]] for  [[Eur
 			<td style="text-align: center">1950</td>
 		</tr>
 		<tr>
-			<td><img src="jo.png" width="20px"> <a href="Jordan.md">Jordan</a></td>
+			<td><img src="jo.png" width="20px"> Jordan</td>
 			<td>Jordan Radio and Television Corporation</td>
 			<td style="text-align: center">JRTV</td>
 			<td style="text-align: center">1970</td>
@@ -234,13 +264,13 @@ Most of these members are also official [[Broadcasters|broadcasters]] for  [[Eur
 			<td style="text-align: center">1993</td>
 		</tr>
 		<tr>
-			<td><img src="lb.png" width="20px"> <a href="Lebanon.md">Lebanon</a></td>
+			<td><img src="lb.png" width="20px"> Lebanon</td>
 			<td>Télé Liban</td>
 			<td style="text-align: center">TL</td>
 			<td style="text-align: center">1950</td>
 		</tr>
 		<tr>
-			<td><img src="ly.png" width="20px"> <a href="Libya.md">Libya</a></td>
+			<td><img src="ly.png" width="20px"> Libya</td>
 			<td>Libya National Channel</td>
 			<td style="text-align: center">LNC</td>
 			<td style="text-align: center">2011</td>
@@ -389,7 +419,7 @@ Most of these members are also official [[Broadcasters|broadcasters]] for  [[Eur
 			<td style="text-align: center">1950</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="vertical-align: middle;"><img src="tn.png" width="20px"> <a href="Tunesia.md">Tunesia</a></td>
+			<td rowspan="2" style="vertical-align: middle;"><img src="tn.png" width="20px"> Tunesia</td>
 			<td>Établissement de la Radio Tunesienne</td>
 			<td rowspan ="2" style="vertical-align: middle; text-align: center">RTT</td>
 			<td rowspan ="2" style="vertical-align: middle; text-align: center">2007</td>
@@ -415,7 +445,7 @@ Most of these members are also official [[Broadcasters|broadcasters]] for  [[Eur
 			<td style="vertical-align: middle; text-align: center">1981</td>
 		</tr>
 		<tr>
-			<td><img src="va.png" width="20px"> <a href="Vatican City.md">Vatican City</a></td>
+			<td><img src="va.png" width="20px"> Vatican City</td>
 			<td>Vatican Radio</td>
 			<td style="text-align: center">VR</td>
 			<td style="text-align: center">1950</td>
@@ -428,11 +458,11 @@ Most of these members are also official [[Broadcasters|broadcasters]] for  [[Eur
 <table>
 	<thead>
 		<tr>
-			<th style="text-align: center; width: 125px">Country</th>
+			<th style="text-align: center;">Country</th>
 			<th style="text-align: center;">Broadcaster</th>
-			<th style="text-align: center; width: 100px">Abbreviation</th>
-			<th style="text-align: center; width: 100px">Year joined</th>
-			<th style="text-align: center; width: 100px">Suspended</th>
+			<th style="text-align: center; ">Abbreviation</th>
+			<th style="text-align: center; ">Year joined</th>
+			<th style="text-align: center; ">Suspended</th>
 		</tr>
 	</thead>
 		<tr>
