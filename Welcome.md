@@ -1,4 +1,4 @@
-Welcome to the unofficial Obsidian Eurovision Song Contest History Wiki, created by ItsLleytonBtw.
+Welcome to the unofficial Obsidian [[Eurovision Song Contest]] History Wiki, created by ItsLleytonBtw.
 
 This wiki is a work in progress and an experiment for me to test out the capabilities of Obsidian (and GitHub).
 
