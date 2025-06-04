@@ -15,7 +15,7 @@
               "state": {
                 "file": "Organisations/European Broadcasting Union.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "European Broadcasting Union"
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a9cb6e5c23c3b8a3",
@@ -181,12 +182,23 @@
   },
   "active": "377089074c972f44",
   "lastOpenFiles": [
+    "Pictures/Alternative EBU Logo.jpg",
+    "Albania.md",
+    "Organisations/European Broadcasting Union.md",
+    "Pictures/zw.png",
+    "Pictures/zm.png",
+    "Pictures/za.png",
+    "Pictures/yt.png",
+    "Pictures/ye.png",
+    "Pictures/xk.png",
+    "Pictures/ws.png",
+    "Pictures/wf.png",
+    "Pictures/vu.png",
+    "Pictures/vn.png",
     "Pictures",
-    "Pictures/EBU_Member_Elliptic.png",
     "Pictures",
     "New folder",
     "Welcome.md",
-    "Organisations/European Broadcasting Union.md",
     "Untitled.canvas",
     "Untitled.md",
     "Organisations",

@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "colored-text"
+  "colored-text",
+  "obsidian-columns",
+  "obsidian-banners",
+  "obsidian-emoji-toolbar"
 ]
