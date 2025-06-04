@@ -13,7 +13,7 @@ The European Broadcasting Union (EBU) is the main organisation behind the [[Euro
 >> [!col-md]
 >> | ![[EBU_Member_Elliptic.png]]                                                                                                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Figure 1: In the picture[^1] you see a map of all current members in <span style="font-weight:bold; color:rgb(33, 68, 120)">dark blue</span>, suspended members in <span style="font-weight:bold; color:rgb(255, 182, 0)">yellow</span> and associate members in <span style="font-weight:bold; color:rgb(55, 113, 200)">blue</span>. |
+| *Figure 4*: In the picture[^1] you see a map of all current members in <span style="font-weight:bold; color:rgb(33, 68, 120)">dark blue</span>, suspended members in <span style="font-weight:bold; color:rgb(255, 182, 0)">yellow</span> and associate members in <span style="font-weight:bold; color:rgb(55, 113, 200)">blue</span>. |
 
 They produce many programmes and events, like [[Eurovision Song Contest|ESC]], [[Junior Eurovision Song Contest|Junior ESC (JESC)]], etc.
 
